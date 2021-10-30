@@ -73,20 +73,20 @@ zmodules/Src/zshpaths.h
 zmodules/Src/zshterm.h
 zmodules/Src/zshxmods.h
 
-zmodules/Src/zdharma/Makefile.in
-zmodules/Src/zdharma/*.export
-zmodules/Src/zdharma/so_locations
-zmodules/Src/zdharma/*.pro
-zmodules/Src/zdharma/*.epro
-zmodules/Src/zdharma/*.syms
-zmodules/Src/zdharma/*.dSYM
-zmodules/Src/zdharma/*.mdh
-zmodules/Src/zdharma/*.mdhi
-zmodules/Src/zdharma/*.mdhs
-zmodules/Src/zdharma/*.mdh.tmp
-zmodules/Src/zdharma/errnames.c
-zmodules/Src/zdharma/errcount.h
-zmodules/Src/zdharma/curses_keys.h
+zmodules/Src/muttakinhasib/Makefile.in
+zmodules/Src/muttakinhasib/*.export
+zmodules/Src/muttakinhasib/so_locations
+zmodules/Src/muttakinhasib/*.pro
+zmodules/Src/muttakinhasib/*.epro
+zmodules/Src/muttakinhasib/*.syms
+zmodules/Src/muttakinhasib/*.dSYM
+zmodules/Src/muttakinhasib/*.mdh
+zmodules/Src/muttakinhasib/*.mdhi
+zmodules/Src/muttakinhasib/*.mdhs
+zmodules/Src/muttakinhasib/*.mdh.tmp
+zmodules/Src/muttakinhasib/errnames.c
+zmodules/Src/muttakinhasib/errcount.h
+zmodules/Src/muttakinhasib/curses_keys.h
 
 zmodules/Test/*.tmp
 /.project
